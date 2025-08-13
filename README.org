@@ -1,0 +1,3 @@
+* rllm
+
+Large language model that tries to be as RIIR as possible. We try to use Rust from a foundation till the highest level :heart
